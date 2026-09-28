@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  color: black;
+  background-color: gray;
+}
+
+#welcome{
+  color : rgba(189, 66, 66, 0.866);
+  background-color: rgba(189, 57, 57, 0.479);
+}
+
+.paragraph {
+  color: rgba(0, 0, 0, 0.8);
+  background-color: rgba(72, 45, 133, 0.5);
+  font-size: 25px;
+}
